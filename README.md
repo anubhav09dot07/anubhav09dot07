@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:09anubhavvyas11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/anubhav-vyas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/r0c9y"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/anubhav09dot07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -117,7 +117,7 @@ Built an ML-powered system that automatically matches candidate resumes to job d
 
 - 📧 **Email:** [09anubhavvyas11@gmail.com](mailto:09anubhavvyas11@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/anubhav-vyas](https://linkedin.com/in/anubhav-vyas)
-- 🐙 **GitHub:** [github.com/r0c9y](https://github.com/r0c9y)
+- 🐙 **GitHub:** [github.com/anubhav09dot07](https://github.com/anubhav09dot07)
 
 ---
 
