@@ -54,6 +54,13 @@
 ### Creative Suite
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Kdenlive](https://img.shields.io/badge/Kdenlive-527AA0?style=flat-square&logo=kdenlive&logoColor=white)
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=flat-square&logo=derivative&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF6F00?style=flat-square&logo=flstudio&logoColor=white)
+
 
 ---
 
