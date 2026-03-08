@@ -61,19 +61,18 @@
 ![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=flat-square&logo=derivative&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-FF6F00?style=flat-square&logo=flstudio&logoColor=white)
 
-
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 [Olist Brazil E-Commerce Analysis](https://github.com/r0c9y)
+### 📦 [Olist Brazil E-Commerce Analysis](https://github.com/anubhav09dot07)
 > **Python · Pandas · Matplotlib · Seaborn**
 
 Analyzed a dataset of **100K+ transactions** to uncover consumer behavior patterns and sales trends. Cleaned and transformed raw data to deliver actionable insights through statistical visualization.
 
 ---
 
-### 🤖 [Automated Resume Ranking System](https://github.com/r0c9y)
+### 🤖 [Automated Resume Ranking System](https://github.com/anubhav09dot07)
 > **Python · Scikit-learn · NLP**
 
 Built an ML-powered system that automatically matches candidate resumes to job descriptions. Implemented ranking algorithms to prioritize candidates based on skill relevance and experience metrics.
@@ -102,12 +101,12 @@ Built an ML-powered system that automatically matches candidate resumes to job d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r0c9y&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0c9y&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhav09dot07&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav09dot07&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0c9y&theme=tokyonight&hide_border=true" width="55%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav09dot07&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 ---
@@ -129,7 +128,7 @@ Built an ML-powered system that automatically matches candidate resumes to job d
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=r0c9y&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=anubhav09dot07&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 <p align="center"><i>"Turning data into decisions, one insight at a time."</i></p>
