@@ -1,14 +1,28 @@
-<h1 align="center">Hi there, I'm Anubhav Vyas 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>MCA Student · Data Science Enthusiast · Open Source & Linux Lover · VFX & Motion Designer</em>
-</p>
+```
+███╗   ██╗██╗███████╗████████╗██╗   ██╗    ███████╗ ██████╗
+████╗  ██║██║██╔════╝╚══██╔══╝╚██╗ ██╔╝    ██╔════╝██╔═══██╗
+██╔██╗ ██║██║█████╗     ██║    ╚████╔╝     █████╗  ██║   ██║
+██║╚██╗██║██║██╔══╝     ██║     ╚██╔╝      ██╔══╝  ██║   ██║
+██║ ╚████║██║██║        ██║      ██║       ██║     ╚██████╔╝
+╚═╝  ╚═══╝╚═╝╚═╝        ╚═╝      ╚═╝       ╚═╝      ╚═════╝
+```
+
+# Hi there, I'm Anubhav Vyas 👋
+
+**`MCA Student · Data Science Enthusiast · Open Source & Linux Lover · VFX & Motion Designer`**
 
 <p align="center">
   <a href="mailto:09anubhavvyas11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/anubhav-vyas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/anubhav09dot07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://huggingface.co/anubhav0907"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=anubhav09dot07&style=flat-square&color=38bdf8)
+
+</div>
 
 ---
 
@@ -35,6 +49,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -124,11 +139,8 @@ Built an ML-powered system that automatically matches candidate resumes to job d
 - 📧 **Email:** [09anubhavvyas11@gmail.com](mailto:09anubhavvyas11@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/anubhav-vyas](https://linkedin.com/in/anubhav-vyas)
 - 🐙 **GitHub:** [github.com/anubhav09dot07](https://github.com/anubhav09dot07)
+- 🤗 **HuggingFace:** [huggingface.co/anubhav0907](https://huggingface.co/anubhav0907)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhav09dot07&style=flat-square&color=blue" alt="Profile views"/>
-</p>
 
 <p align="center"><i>"Turning data into decisions, one insight at a time."</i></p>
