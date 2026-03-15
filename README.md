@@ -23,7 +23,7 @@
 - 📊 Passionate about **Data Analytics**, **Machine Learning**, and turning raw data into actionable insights
 - 🐧 Daily Linux user — comfortable building and maintaining workflows in the Linux ecosystem
 - 🎬 Former **Freelance VFX & Motion Designer** (2022–2024) — blending creativity with technology
-- 📸 Building a data science presence on **Instagram** to share projects and technical insights
+- 📸 Building a data science presence on **Github** to share projects and technical insights
 - 📍 Based in **Pune, Maharashtra, India**
 
 ---
