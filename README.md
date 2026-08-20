@@ -2,7 +2,7 @@
 
 # Hi there, I'm Anubhav Vyas 👋
 
-**`Data Science Enthusiast · Open Source & Linux Lover · VFX & Motion Designer`**
+**`Data Science Enthusiast · Open Source & Linux `**
 
 <p align="center">
   <a href="mailto:09anubhavvyas11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
